@@ -28,3 +28,8 @@ This repo contains the lab instructions and files used in Microsoft Official Cur
 - Any MCT can submit a pull request to the code or content in the GitHub repo, Microsoft and the course author will triage and include content and lab code changes as needed.
 
 - You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+
+
+git config --global user.name "yang"
+
+git config --global user.email "x2018uka@gmail.com"
